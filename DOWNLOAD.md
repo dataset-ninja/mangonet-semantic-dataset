@@ -1,6 +1,6 @@
 Dataset **MangoNet** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/p/P/nW/WPW94w89kuJtLNqVP3NikWZeYKJSGkwfkcq6b0vxuHhAuHoCbl05IuvMtQtnstpS4pxQv6tu555Ts2bwKB7dqYbrQuWaAcBRhYL9WpvDL3jjEeDpaMqTU8SJTWOU.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/M/J/mJ/2oRdRXYBTUz1Kew63FW9SuHU4g1cyXdU8megr2FGggZyiM18XXu8WZn89YdpMJf8XMkn1AYbkEoKxb8XX7FIfN3mW1oBdQVIAO67V0hYUW9hf09kbcStms9LwF2t.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
