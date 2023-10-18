@@ -20,7 +20,7 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.MIT()
+LICENSE: License = License.MIT(source_url="https://github.com/avadesh02/MangoNet-Semantic-Dataset/blob/master/LICENSE")
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Agricultural()]
 CATEGORY: Category = Category.Agriculture()
 
