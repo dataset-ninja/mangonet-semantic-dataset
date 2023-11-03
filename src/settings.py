@@ -57,6 +57,7 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
 CITATION_URL: Optional[str] = "https://www.sciencedirect.com/science/article/abs/pii/S0952197618301970"
 AUTHORS: Optional[List[str]] = ["Ramesh Kestur", "Avadesh Meduri", "Omkar Narasipura"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["avadesh02@gmail.com"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = ["Indian Institute of Science", "Birla Institute of Technology and Science, India"]
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = ["https://iisc.ac.in/","https://www.bits-pilani.ac.in/"]
@@ -110,6 +111,7 @@ def get_settings():
     settings["repository"] = REPOSITORY
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
